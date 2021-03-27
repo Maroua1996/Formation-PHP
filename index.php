@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
 </head>
 
-<body> <?php print('hola yosra est une copieuse <br /> ');
+<body> <?php print('hola world <br /> ');
 
 echo 'ceci est un autre test <br/>';
 //Ceci est mon premire fichier php de ce dossier ?>
